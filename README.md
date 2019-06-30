@@ -1,8 +1,8 @@
-#This is the webpage for the exercise of week 4
+# This is the webpage for the exercise of week 4
 
-##By Yunqing Xiao
+## By Yunqing Xiao
 
--a
--b
--c
--d
+- a
+- b
+- c
+- d
